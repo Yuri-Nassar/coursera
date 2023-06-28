@@ -1,0 +1,5 @@
+*.json
+.env
+.ipynb_checkpoints
+*.docx
+*__pycache__*
